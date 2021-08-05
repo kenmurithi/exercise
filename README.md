@@ -80,7 +80,7 @@ Other Note: to get help on a particular git command, use `git <command> --help`
     ~~~bash
     $ git push
     ~~~
-
+Done with excercise one
 ## Exercise 2: Branching and Merging
 
 1. Create a new branch 
