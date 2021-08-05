@@ -36,6 +36,7 @@ Other Note: to get help on a particular git command, use `git <command> --help`
     $ git clone <url>
     ~~~
 
+git hub recup
 2. Create and add a new file
 
     ~~~bash
